@@ -47,13 +47,6 @@ Our experiments show clear structural patterns:
 **Conclusion:**  
 The study provides new quantitative insights into the landscapes of MAX-SAT problems and highlights how landscape-
 
-## 🎯 Research Focus
-
-- **Local optima ratio**: proportion of locally optimal assignments among all assignments.
-- **Same-height neighbors**: fraction of neighbors with equal quality.
-- **Hamming distance analysis**: diversity and distribution of local optima across problem families.
-- **Statistical metrics**: mean/median heights, standard deviation, mean absolute deviation.
-
 ## 📂 Repository Structure
 
 - `thesis/` — PDF of the full thesis.
@@ -88,16 +81,3 @@ This repository contains separate Python scripts for each experiment:
   seaborn
   tqdm
 
-📊 Example Outputs
-
-Distribution of local optima ratios across instances.
-
-Histograms of neighbor similarity.
-
-Hamming distance statistics visualized by family parameters.
-
-📄 Thesis
-
-The full text of the thesis can be found in:
-
-thesis/An_Empirical_Study_of_Local_Properties.pdf

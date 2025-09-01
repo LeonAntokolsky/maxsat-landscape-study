@@ -21,10 +21,6 @@ The project explores the structure of local optima in random MAX-SAT instances t
   - `exp1_local_optima_ratio.py` — overall/local optima distribution.
   - `exp2_neighbors_same_height.py` — analysis of neighbors at equal heights.
   - `exp3_hamming_distance.py` — pairwise distances between local optima.
-  - `utils.py` — shared helper functions (instance generation, evaluation, etc.).
-- `data/` — optional folder for generated instances or stored results.
-- `results/` — plots and aggregated statistics.
-- `requirements.txt` — Python dependencies.
 
 ## ⚙️ Requirements
 

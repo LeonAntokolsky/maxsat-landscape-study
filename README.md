@@ -35,3 +35,17 @@ The project explores the structure of local optima in random MAX-SAT instances t
   matplotlib
   seaborn
   tqdm
+
+📊 Example Outputs
+
+Distribution of local optima ratios across instances.
+
+Histograms of neighbor similarity.
+
+Hamming distance statistics visualized by family parameters.
+
+📄 Thesis
+
+The full text of the thesis can be found in:
+
+thesis/An_Empirical_Study_of_Local_Properties.pdf
